@@ -1,0 +1,25 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:copper_ingot"
+    },
+    {
+      "item": "minecraft:clay_ball"
+    },
+    {
+      "tag": "c:cobblestones"
+    },
+    {
+      "type": "fluid_stack",
+      "amount": 50,
+      "fluid": "minecraft:lava"
+    }
+  ],
+  "results": [
+    {
+      "id": "create:veridium",
+      "count": 1
+    }
+  ]
+}

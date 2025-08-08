@@ -1,0 +1,28 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "minecraft:quartz"
+    },
+    {
+      "tag": "c:cobblestones"
+    },
+    {
+      "tag": "c:cobblestones"
+    },
+    {
+      "type": "fluid_stack",
+      "amount": 50,
+      "fluid": "minecraft:lava"
+    }
+  ],
+  "results": [
+    {
+      "id": "create:ochrum",
+      "count": 2
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "create:zinc_ingot"
+    },
+    {
+      "item": "minecraft:gunpowder"
+    },
+    {
+      "tag": "c:cobblestones"
+    },
+    {
+      "tag": "c:cobblestones"
+    },
+    {
+      "type": "fluid_stack",
+      "amount": 50,
+      "fluid": "minecraft:lava"
+    }
+  ],
+  "results": [
+    {
+      "id": "create:asurine",
+      "count": 2
+    }
+  ]
+}

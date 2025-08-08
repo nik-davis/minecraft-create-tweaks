@@ -1,0 +1,17 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:calcite"
+    },
+    {
+      "tag": "c:cobblestones"
+    }
+  ],
+  "results": [
+    {
+      "id": "create:limestone",
+      "count": 1
+    }
+  ]
+}
